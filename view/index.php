@@ -6,6 +6,9 @@
 <?php include("header.php"); ?>
 <!-- main -->
 <main>
+    <!-- ▼たけまさテスト▼ -->
+    <input type="hidden" value="a">
+    <!-- ▲たけまさテスト▲ -->
     <div class="top">
         <form class="search" action="#" method="get">
             <input class="search__input" type="search" size="25" placeholder="キーワード入力">
